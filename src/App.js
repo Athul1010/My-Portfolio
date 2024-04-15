@@ -7,6 +7,7 @@ import Header from './Components/header/header';
 import Navbar from './Components/nav/navbar';
 import Education from './Components/Education/education';
 import Technologies from './Components/Technologies/Technologies';
+import Work from './Components/Work/Work';
 
 
 
@@ -18,6 +19,7 @@ function App() {
       <Header />
       <Navbar />
       <About />
+      <Work/>
       <Education />
       <Technologies />
       <Contact />

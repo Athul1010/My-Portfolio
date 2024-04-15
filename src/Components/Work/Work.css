@@ -1,0 +1,9 @@
+#work {
+    padding-top: 4rem;
+}
+
+@media screen and (max-width:600px) {
+    .experience__details {
+        font-size: 14px;
+    }
+}

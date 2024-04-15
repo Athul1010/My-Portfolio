@@ -66,12 +66,10 @@ header{
 
 
 @media screen and (max-width:1024px){
-    header{
+    /* header{
         height: 100vh;
-    }
-    #hed{
-        margin-bottom: 3rem;
-    }
+    } */
+    
     
 }
     @media screen and (max-width:600px){
@@ -83,7 +81,7 @@ header{
           top:50px;
           flex-direction: row;
           justify-content: center;
-           
+           margin-right: 0px;
         }
         .header__socials::after,.scroll__down{
             display: none;
