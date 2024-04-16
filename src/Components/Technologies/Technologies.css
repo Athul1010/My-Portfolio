@@ -42,9 +42,9 @@ cursor: default;
         grid-template-columns: 1fr;
     }
     .experience__container >div{
-        width:80% ;
+        
         padding: 2rem;
-        margin: 0 auto;
+       
     }
     .experience__content{
         padding: 1rem;
@@ -61,3 +61,25 @@ cursor: default;
             margin: 0 auto;
         }
         } 
+
+        @media screen and (min-width:600px){
+            .experience__content {
+                padding-left: 4rem;
+            }
+        }
+
+        @media screen and (min-width:768px){
+            .experience__content {
+                padding-left: 10rem;
+            }
+        }
+        @media screen and (min-width:1200px){
+            .experience__content {
+                padding-left: 0rem;
+            }
+        }
+        @media screen and (min-width:1400px){
+            .experience__content {
+                padding-left: 3rem;
+            }
+        }

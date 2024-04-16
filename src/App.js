@@ -8,6 +8,7 @@ import Navbar from './Components/nav/navbar';
 import Education from './Components/Education/education';
 import Technologies from './Components/Technologies/Technologies';
 import Work from './Components/Work/Work';
+import Projects from './Components/Projects/Projects';
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <Navbar />
       <About />
       <Work/>
+      <Projects/>
       <Education />
       <Technologies />
       <Contact />

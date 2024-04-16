@@ -2,6 +2,7 @@ import React from 'react'
 import { BsPatchCheckFill } from 'react-icons/bs'
 import './Technologies.css'
 
+
 const Technologies = () => {
     return (
         <section id='Technologies'>
