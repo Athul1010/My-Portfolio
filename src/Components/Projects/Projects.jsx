@@ -20,9 +20,9 @@ const Projects = () => {
 
             <div className='live'>
                 <hr />
-                <p>< BsPatchCheckFill className='count'/> IELTS Master : <a href="https://www.pteskills.com/">https://www.pteskills.com/</a></p>
+                <p>< BsPatchCheckFill className='count'/> IELTS Master : <a href="https://www.pteskills.com/">Click</a></p>
                 <hr />
-                <p>< BsPatchCheckFill className='count'/> PTE Skills : <a href="https://www.ieltsmaster.com/">https://www.ieltsmaster.com/</a></p>
+                <p>< BsPatchCheckFill className='count'/> PTE Skills : <a href="https://www.ieltsmaster.com/">Click</a></p>
                 <p>< BsPatchCheckFill className='count'/> Maratha Vivah<a href=""></a></p>
             </div>
           </div>
@@ -59,6 +59,7 @@ const Projects = () => {
                 <hr />
                 <p>< BsPatchCheckFill className='count'/> LIBRARY MANAGEMENT SYSTEM WEBSITE</p>
                 <hr />
+                <p>< BsPatchCheckFill className='count'/> ADVENTURE TO PERU: <a href="https://661ff95e8132076a8b3bed7e--radiant-babka-813c14.netlify.app/">Click</a></p>
             </div>
             {/* <p>PTE Skills : <a href="https://www.ieltsmaster.com/">https://www.ieltsmaster.com/</a></p>
             <p>Maratha Vivah : <a href="">Maratha Vivah</a></p> */}

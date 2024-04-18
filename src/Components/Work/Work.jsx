@@ -52,13 +52,13 @@ const Work = () => {
                         </article>
                         <article className="experience__details">
                             < BsPatchCheckFill className='experience__details-icon' />
-                            <div>Live Project : <a href="https://www.ieltsmaster.com/">https://www.ieltsmaster.com/</a>
+                            <div>Live Project : <a href="https://www.ieltsmaster.com/">Click</a>
                                 <small className='text-light'></small>
                             </div>
                         </article>
                         <article className="experience__details">
                             < BsPatchCheckFill className='experience__details-icon' />
-                            <div>Live Project : <a href="https://www.pteskills.com/">https://www.pteskills.com/</a>
+                            <div>Live Project : <a href="https://www.pteskills.com/">Click</a>
                                 <small className='text-light'></small>
                             </div>
                         </article>
